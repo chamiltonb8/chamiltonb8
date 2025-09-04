@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chamiltonb8, Cameron Hamilton
 - 👀 I’m interested in Statistics, product management, and all things outdoors! 
-- 🌱 I’m currently learning Linear Algebra coding in R and Python
+- 🌱 I’m currently learning more about the Data Science process and how it applies in real world scenarios
 
 <!---
 chamiltonb8/chamiltonb8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
